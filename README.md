@@ -1,2 +1,0 @@
-# covid2019_statistics
-covid2019_statistics
